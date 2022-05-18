@@ -9,8 +9,7 @@
     "permissions": [
         "storage", 
         "activeTab", 
-        "scripting", 
-        "https://malicious_website.com"],
+        "scripting"], 
     "action": {
         "default_popup": "popup.html",
         "default_icon": {
